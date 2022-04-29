@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 CIANDT\igorsilva CIANDT\domain^users 4096 abr 29 17:08 .
+drwxr-xr-x 6 CIANDT\igorsilva CIANDT\domain^users 4096 abr 28 16:36 ..
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users   30 abr 28 11:09 0-hello_world
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users   28 abr 28 15:14 1-confused_smiley
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users   28 abr 29 11:07 2-hellofile
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users   39 abr 29 12:06 3-twofiles
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users   29 abr 29 12:09 4-lastlines
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users   29 abr 29 12:10 5-firstlines
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users   42 abr 29 13:04 6-third_line
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users  101 abr 29 16:30 7-file
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users  101 abr 29 16:30 8-cwd_state
+-rw-r--r-- 1 CIANDT\igorsilva CIANDT\domain^users   12 abr 29 16:31 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 CIANDT\igorsilva CIANDT\domain^users   75 abr 29 12:54 iacta
+-rw-r--r-- 1 CIANDT\igorsilva CIANDT\domain^users    0 abr 29 17:08 ls_cwd_content
+-rwxr--r-- 1 CIANDT\igorsilva CIANDT\domain^users   36 abr 28 11:24 README.md
